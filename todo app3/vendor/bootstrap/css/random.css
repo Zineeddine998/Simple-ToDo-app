@@ -1,0 +1,20 @@
+
+.jumbotron {
+    background-size: cover;
+}
+
+  body{
+  }
+  .btn{
+    color: aquamarine;
+      background-color: #3300ff;
+  }
+  .card-body{
+
+  }
+  .card-footer{
+
+  }
+  .form-row{
+      justify-content: center;
+  }
